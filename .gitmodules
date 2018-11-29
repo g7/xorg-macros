@@ -1,0 +1,3 @@
+[submodule "xorg-macros"]
+	path = xorg-macros
+	url = https://gitlab.freedesktop.org/xorg/util/macros.git
