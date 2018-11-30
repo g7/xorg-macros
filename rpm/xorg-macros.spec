@@ -1,15 +1,12 @@
-%define pkgname util-macros
-%define debug_package %{nil}
- 
 Summary: X.Org X11 Autotools macros
 Name: xorg-macros
-Version: 1.12.0
-Release: 4%{?dist}
+Version: 0.0.0
+Release: 1
 License: MIT
 Group: Development/System
 URL: http://www.x.org
 BuildArch: noarch
-Source0:  ftp://ftp.x.org/pub/individual/util/util-macros-%{version}.tar.bz2
+Source0:  xorg-macros-%{version}.tar.bz2
 Requires: autoconf automake libtool pkgconfig
  
 %description
